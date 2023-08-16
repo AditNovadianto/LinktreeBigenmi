@@ -16,6 +16,10 @@
     "postcss": "8.4.27",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-icons": "^4.10.1",
+    "react-photo-collage": "^1.0.9",
+    "styled-components": "^6.0.7",
+    "swiper": "^10.1.0",
     "tailwindcss": "3.3.3"
   }
 }
